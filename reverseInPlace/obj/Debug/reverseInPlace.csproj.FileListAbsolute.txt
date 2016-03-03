@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\bin\Debug\reverseInPlace.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\bin\Debug\reverseInPlace.exe
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\bin\Debug\reverseInPlace.pdb
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\obj\Debug\reverseInPlace.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\obj\Debug\reverseInPlace.exe
+c:\users\asia\documents\visual studio 2015\Projects\reverseInPlace\reverseInPlace\obj\Debug\reverseInPlace.pdb
